@@ -1,0 +1,19 @@
+
+
+h1 {
+    text-align: center;
+    color: MediumSeaGreen;
+    background: orange;
+}
+
+h2 {
+    text-align: center;
+    color: violet;
+    text-decoration: underline;
+}
+
+h3 {
+    text-align: center;
+    color: dodgerblue;
+    font-weight: bold;
+}
